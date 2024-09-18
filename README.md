@@ -3,7 +3,7 @@
 ### I'm Prada Abdul Mufid! 💻
 
 - 🚀 **Aspiring AI Engineer**
-- 🎮 **Game Pixel Art Enthusiast**
+- 🎮 **Pixel Art Enthusiast**
 - 🌱 **Learning Japanese and Machine Learning**
 - 🔐 **Cybersecurity Aficionado with a passion for ethical hacking**
 - 🏍️ **Cafe Racer Enthusiast**  
